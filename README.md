@@ -36,8 +36,8 @@ Use this as a template for your own analytics projects.
 
 Contact
 
-GitHub: Rivarora
-Email: [arorariva19@gmail.com]
+GitHub: Rivarora<br>
+Email: [arorariva19@gmail.com]<br>
 LinkedIn: [https://www.linkedin.com/in/riva-arora-5ba0ba324?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
 
 Acknowledgments
